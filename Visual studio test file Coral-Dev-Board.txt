@@ -1,0 +1,4 @@
+Hallo dit is Visual studio
+Deze file is bedoeld als een test file
+update vrijdag 16-10-2020
+deze wordt geplaatst in de map Development board
